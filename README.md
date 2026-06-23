@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamgiri068/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
+| [1096-brace-expansion-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -32,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
+## Hash Table
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+## String
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
