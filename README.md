@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamgiri068/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -15,4 +16,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamgiri068/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+## Sorting
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
