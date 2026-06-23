@@ -18,24 +18,24 @@ class Solution {
         Queue<int[]> q = new LinkedList<>();
         q.offer(new int[]{0, 0, 1});
 
-        grid[0][0] = 1; // mark visited
+        grid[0][0] = 1; // visited
 
         while (!q.isEmpty()) {
 
             int[] cur = q.poll();
 
-            int r = cur[0];
-            int c = cur[1];
+            int row = cur[0];
+            int col = cur[1];
             int dist = cur[2];
 
-            if (r == n - 1 && c == n - 1) {
+            if (row == n - 1 && col == n - 1) {
                 return dist;
             }
 
             for (int[] d : dirs) {
 
-                int nr = r + d[0];
-                int nc = c + d[1];
+                int nr = row + d[0];
+                int nc = col + d[1];
 
                 if (nr >= 0 && nr < n &&
                     nc >= 0 && nc < n &&
