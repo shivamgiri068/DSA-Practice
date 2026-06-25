@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamgiri068/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamgiri068/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamgiri068/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
