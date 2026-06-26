@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamgiri068/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1187-make-array-strictly-increasing](https://github.com/shivamgiri068/DSA-Practice/tree/master/1187-make-array-strictly-increasing) |
+| [1191-k-concatenation-maximum-sum](https://github.com/shivamgiri068/DSA-Practice/tree/master/1191-k-concatenation-maximum-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamgiri068/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1187-make-array-strictly-increasing](https://github.com/shivamgiri068/DSA-Practice/tree/master/1187-make-array-strictly-increasing) |
+| [1191-k-concatenation-maximum-sum](https://github.com/shivamgiri068/DSA-Practice/tree/master/1191-k-concatenation-maximum-sum) |
 ## Binary Search
 |  |
 | ------- |
