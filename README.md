@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamgiri068/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1187-make-array-strictly-increasing](https://github.com/shivamgiri068/DSA-Practice/tree/master/1187-make-array-strictly-increasing) |
 | [1191-k-concatenation-maximum-sum](https://github.com/shivamgiri068/DSA-Practice/tree/master/1191-k-concatenation-maximum-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamgiri068/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/shivamgiri068/DSA-Practice/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamgiri068/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
