@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1187-make-array-strictly-increasing](https://github.com/shivamgiri068/DSA-Practice/tree/master/1187-make-array-strictly-increasing) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shivamgiri068/DSA-Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
