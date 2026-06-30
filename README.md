@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivamgiri068/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shivamgiri068/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivamgiri068/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/shivamgiri068/DSA-Practice/tree/master/0283-move-zeroes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivamgiri068/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/shivamgiri068/DSA-Practice/tree/master/1094-car-pooling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivamgiri068/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivamgiri068/DSA-Practice/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/shivamgiri068/DSA-Practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
