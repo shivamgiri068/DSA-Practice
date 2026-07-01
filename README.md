@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shivamgiri068/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamgiri068/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1487-making-file-names-unique](https://github.com/shivamgiri068/DSA-Practice/tree/master/1487-making-file-names-unique) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivamgiri068/DSA-Practice/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/shivamgiri068/DSA-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1487-making-file-names-unique](https://github.com/shivamgiri068/DSA-Practice/tree/master/1487-making-file-names-unique) |
 ## String
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/shivamgiri068/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+| [1487-making-file-names-unique](https://github.com/shivamgiri068/DSA-Practice/tree/master/1487-making-file-names-unique) |
 ## Backtracking
 |  |
 | ------- |
