@@ -1,12 +1,17 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
-        int expectedSum = n * (n+1) / 2;
-        int actualSum = 0;
+        HashSet<Integer> set = new HashSet<>();
+        // Add all numbers to set
         for(int i=0; i<n; i++){
-            actualSum += nums[i];
+            set.add(nums[i]);
         }
-        return expectedSum - actualSum;
+        for(int i=0; i<=n; i++){
+            if(!set.contains(i))
+            return i;
+
+        }
+        return -1;
         
     }
 }
